@@ -48,9 +48,9 @@ The final deliverables include:
 - Data visualizations illustrating key findings.
 - A presentation summarizing the insights and recommendations for Rockbuster’s management.
 ### Project Structure
-/sql_queries/ - Contains the SQL scripts used for querying the data.
-/data_visualizations/ - Visualizations and charts based on SQL query results.
-/presentation/ - Final presentation delivered to Rockbuster Stealth management.
+- /sql_queries/ - Contains the SQL scripts used for querying the data.
+- /data_visualizations/ - Visualizations and charts based on SQL query results.
+- /presentation/ - Final presentation delivered to Rockbuster Stealth management.
 ### Getting Started
 To explore the data analysis, follow the steps below:
 
